@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "opiniones": [
+    {
+      "id": "8c2abf3b-a9ff-5965-9c89-326d7b510aff",
+      "fecha_utc": "2026-11-05T15:00:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Su visión de juego y sus pases son extraordinarios.",
+      "sentimiento": "positivo",
+      "razon": "La opinión expresa admiración por su visión de juego y sus pases.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "cd3de707-55c4-5c36-a5f3-123e9e6336ca",
+      "fecha_utc": "2026-11-05T15:01:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Su rendimiento en el último partido fue decepcionante.",
+      "sentimiento": "negativo",
+      "razon": "La opinión expresa decepción por su rendimiento en un partido.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e1f31c29-636b-5c06-a000-fe2e6e22a2e4",
+      "fecha_utc": "2026-11-05T15:02:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Es un jugador de fútbol argentino.",
+      "sentimiento": "neutro",
+      "razon": "El texto describe al jugador sin emitir una valoración.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "fc177d27-39a1-5beb-996f-69caa8bb1718",
+      "fecha_utc": "2026-11-05T15:03:00+00:00",
+      "jugador_id": "j001",
+      "jugador_nombre": "Lionel Messi",
+      "opinion_original": "Tiene una técnica enorme, pero a veces se desconecta del partido.",
+      "sentimiento": "mixto",
+      "razon": "El comentario combina elogio a su técnica con una crítica a su concentración.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "797ccd3c-1f35-51f8-b1fb-3ba7188ec9b7",
+      "fecha_utc": "2026-11-05T15:04:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Su disciplina y su remate de cabeza me parecen admirables.",
+      "sentimiento": "positivo",
+      "razon": "La opinión expresa admiración por su disciplina y su remate de cabeza.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "041252b8-a38e-5a1c-97d6-353632397d92",
+      "fecha_utc": "2026-11-05T15:05:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Qué precisión: falló todos los pases fáciles.",
+      "sentimiento": "negativo",
+      "razon": "El tono irónico convierte el elogio aparente en una crítica a su precisión.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "568fbd99-46e9-5b1e-b003-9f9a73910c1a",
+      "fecha_utc": "2026-11-05T15:06:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Juega de delantero.",
+      "sentimiento": "neutro",
+      "razon": "El texto describe su posición sin valorarlo.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "5a921097-e396-5d42-839e-d25a4a523097",
+      "fecha_utc": "2026-11-05T15:07:00+00:00",
+      "jugador_id": "j002",
+      "jugador_nombre": "Cristiano Ronaldo",
+      "opinion_original": "Es muy goleador, pero su actitud con los compañeros me decepciona.",
+      "sentimiento": "mixto",
+      "razon": "El comentario combina elogio a su capacidad goleadora con una crítica a su actitud.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "bebd608a-34e3-5d4e-ae4c-6ea30a9e91c0",
+      "fecha_utc": "2026-11-05T15:08:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "Su zurda es una maravilla y sus asistencias son geniales.",
+      "sentimiento": "positivo",
+      "razon": "La opinión expresa admiración por su pierna zurda y sus asistencias.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "22759f45-e717-52cf-8592-105c9fb76599",
+      "fecha_utc": "2026-11-05T15:09:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "No me gustó su participación; se notó desconectado.",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica su participación y lo describe como desconectado.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "37e3248d-fea1-5c3b-bb1c-c791a0c3a32d",
+      "fecha_utc": "2026-11-05T15:10:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "Es un mediocampista colombiano.",
+      "sentimiento": "neutro",
+      "razon": "El texto describe su posición y nacionalidad sin valorarlo.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "14235382-860d-5b00-a8a0-8a0943f02e01",
+      "fecha_utc": "2026-11-05T15:11:00+00:00",
+      "jugador_id": "j012",
+      "jugador_nombre": "James Rodríguez",
+      "opinion_original": "Tiene mucha calidad con el balón, pero le falta constancia.",
+      "sentimiento": "mixto",
+      "razon": "El comentario elogia su calidad con el balón y critica su falta de constancia.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "c18082c6-d8e1-5893-8d1b-c98465c77ae7",
+      "fecha_utc": "2026-11-05T15:12:00+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Su velocidad y su entrega en cada jugada son admirables.",
+      "sentimiento": "positivo",
+      "razon": "La opinión expresa admiración por su velocidad y su entrega.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "3dbea8d8-19b6-5604-b568-89cb22b7f512",
+      "fecha_utc": "2026-11-05T15:13:00+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Falló demasiadas ocasiones y eso me molestó.",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica su definición y expresa molestia.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "9ce83eeb-2664-5826-8b97-c566351d97c4",
+      "fecha_utc": "2026-11-05T15:14:00+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Es un extremo colombiano.",
+      "sentimiento": "neutro",
+      "razon": "El texto describe su posición y nacionalidad sin valorarlo.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "e94ba5dc-301a-5a43-ae13-eeef429ee228",
+      "fecha_utc": "2026-11-05T15:15:00+00:00",
+      "jugador_id": "j013",
+      "jugador_nombre": "Luis Díaz",
+      "opinion_original": "Me encanta su energía, pero toma malas decisiones al definir.",
+      "sentimiento": "mixto",
+      "razon": "El comentario elogia su energía y critica sus decisiones en la definición.",
+      "modelo": "ejemplo_manual_sin_IA",
+      "version_prompt": "1.0"
+    }
+  ]
+}

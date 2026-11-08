@@ -1,0 +1,10 @@
+# Dependencias de Tribuna Global (taller) + soporte para Gemini
+streamlit
+langchain-core
+langchain-openai
+langchain-google-genai
+python-dotenv
+pydantic
+pandas
+# solo para las pruebas automáticas
+pytest

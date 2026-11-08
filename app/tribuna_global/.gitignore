@@ -1,0 +1,17 @@
+# Secretos
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Temporales de escritura atómica de opiniones.json
+datos/.*.tmp
+*.tmp
+
+.DS_Store
